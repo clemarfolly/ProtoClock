@@ -1,0 +1,18 @@
+# Build artifacts
+*.o
+*.cod
+*.asm
+*.map
+*.lst
+
+# Compiled output (optional - descomentar para incluir .hex)
+# *.hex
+
+# KiCad backup files
+*-backups/
+*.kicad_prl
+fp-info-cache
+
+# OS files
+Thumbs.db
+.DS_Store
